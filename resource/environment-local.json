@@ -1,0 +1,20 @@
+{
+  "1q_api": {
+    "program_id": "HFCOMMAGENT.HFCommAgentCtrl.1",
+    "credentials": {
+      "id": "",
+      "password": "",
+      "cert": ""
+    },
+    "target": {
+      "real_name": "V00",
+      "symbol": "D05GBP/AUD"
+    }
+  },
+  "log": {
+    "level": "DEBUG",
+    "file_name": "hana-1q.log",
+    "max_file_size_mb": 100,
+    "backup_count": 100
+  }
+}
